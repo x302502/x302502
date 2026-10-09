@@ -10,6 +10,7 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![VS Code Extension](https://img.shields.io/badge/-VS%20Code%20Extension-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
@@ -20,6 +21,9 @@
 ---
 
 ## Current Projects
+
+- 🧩 **[cli-code](https://github.com/x302502/cli-code)** — [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=x302502.cli-code)  
+  *The agent terminal for VS Code*: run Claude Code, Codex, Copilot, opencode and 28 coding agents in tabs that know the agent's state, keep sessions through reloads, and restart back into the same conversation. TypeScript, open source under [MIT](https://github.com/x302502/cli-code/blob/main/LICENSE).
 
 - ⭐ **[nestjs-typeorm3-kit](https://github.com/x302502/nestjs-typeorm3-kit)**  
   Production-focused toolkit for NestJS + TypeORM v0.3+ designed for large backend systems.

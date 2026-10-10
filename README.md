@@ -24,8 +24,8 @@
 - **[cli-code](https://github.com/x302502/cli-code)** — [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=x302502.cli-code) · MIT  
   *The agent terminal for VS Code*: run Claude Code, Codex, Copilot, opencode and 28 coding agents in tabs that know the agent's state, keep sessions through reloads, and restart back into the same conversation.
 
-- **[nestjs-typeorm3-kit](https://github.com/x302502/nestjs-typeorm3-kit)**  
-  Production-focused toolkit for NestJS + TypeORM v0.3+ designed for large backend systems.
+- **[nestjs-typeorm3-kit](https://github.com/x302502/nestjs-typeorm3-kit)** — [npm](https://www.npmjs.com/package/nestjs-typeorm3-kit) · MIT  
+  Production-focused toolkit for NestJS + TypeORM v0.3+: brings back `@EntityRepository`, multi-DataSource injection, decorator-based transactions (Node.js & Bun), and less controller/Swagger boilerplate.
 
 ## 🔬 Researching
 
